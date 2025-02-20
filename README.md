@@ -1,5 +1,6 @@
 "# KanbanBoard" 
  Frontend
+ 
  Set up Frontend
  
 1.) cd ...\Frontend
@@ -9,6 +10,7 @@
 3.) npm run dev
 
 Set up Backend
+
 1.) npm install -g json -server
 
 2.) cd ...\Backend\db
