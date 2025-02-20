@@ -1,0 +1,28 @@
+
+
+body {
+  background-color:  rgb(213, 212, 238) ;
+  align-items: center;
+}
+
+.v-application {
+  background: #D5D4EE !important;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: rgb(233, 35, 5);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(260, 41%, 84%, 0.2);
+  }
+}
+
+
+
+
